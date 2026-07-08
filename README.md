@@ -58,5 +58,20 @@ This project adapts the YOLOv9 architecture for breast ultrasound image analysis
 - A simplified multi-scale feature fusion network was implemented with reduced depth and channel dimensions. Spatial Pyramid Pooling (SPP) and an additional feature refinement stage were incorporated to improve contextual feature extraction and robustness to low-contrast ultrasound images.
 - The detection head was decoupled into separate branches for bounding box regression, classification, and objectness prediction. Bounding box localization was simplified using direct coordinate prediction, reducing computational complexity and improving interpretability. The classification head was customized for binary classification of benign and malignant breast lesions.
 These architectural modifications enable the model to better capture subtle lesion characteristics while maintaining computational efficiency for automated breast cancer detection in ultrasound images.
+# Results
+## DETECTION RESULTS ON THE DATASET
+|Classes |	P (%)	| R (%)|	mAP@0.5 (%)|
+|:-------|:-------|:-----|:------------|
+|All |	82.1 |	87.7	| 91.1 |
+|Benign	| 80.7 |	91.9 |	90.7 |
+|Malignant |	83.5 |	83.5	| 91.6 |
+
+## Visualization
+The results provided visuals which include:
+- Confusion Metrix of model
+- Recall Confidence Curve
+- Precision Confidence Curve.
+
+
 
 
