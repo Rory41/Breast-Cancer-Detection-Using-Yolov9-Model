@@ -23,7 +23,7 @@ images.
 6. Performance Evaluation
 7. Results
 ## Development Tools
-- Kaggle Notebook
+- jupiter Notebook
 - Python
 - Pytorch
 - Opencv
@@ -71,6 +71,26 @@ The results provided visuals which include:
 - Confusion Metrix of model
 - Recall Confidence Curve
 - Precision Confidence Curve.
+# Application
+Potential APllications of this work include:
+- Computer-Aided Diagnosis for rdiologist
+- Breast Cancer screening in resource-limited settings
+- Medical Education and research
+  # Author
+Gloria Otemah Biomedical Engineering Graduate University of Ghana, Legon Gmail: gloriaotemah334@gmail.com
+
+Clara Otipeseku Amakuor Biomedical Engineering Graduate University of Ghana, Legon Gmail: claraotipeseku3@gmail.com
+
+Emmanuella Selassie Nartey Biomedical Engineering Graduate University of Ghana, Legon Gmail: narteyemmanuella77@gmail.com
+
+Vanessa Naa-Atswei Adjei Biomedical Engineering Graduate University of Ghana, Legon Gmail: adjeivanessa45@gmail.com
+# Reference
+1. World Health Organization (WHO).” Https://www.who.int/news-room/fact-sheets/detail/breast-Cancer. Breast Cancer. WHO Fact Sheets, March 26, 2023.
+2. Iacob, R., Iacob, E. R., & colleagues. (2024). Evaluating the role of breast ultrasound in early detection of breast cancer in low- and middle-income countries: A comprehensive narrative review. Journal/Publisher.
+3. Gomez-Flores, Wilfrido, Maria Julia Gregorio-Calas, and Wagner Coelho de Albuquerque Pereira. “BUS-BRA: A Breast Ultrasound Dataset for Assessing Computer-Aided Diagnosis Systems.” American Association of Physicists in Medicine 51, no. 4 (2023). https://doi.org/10.1002/mp.16812.
+# Lincense
+This project is released under the MIT License.
+
 
 
 
