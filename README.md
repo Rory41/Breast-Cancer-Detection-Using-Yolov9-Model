@@ -76,7 +76,7 @@ Potential APllications of this work include:
 - Computer-Aided Diagnosis for rdiologist
 - Breast Cancer screening in resource-limited settings
 - Medical Education and research
-  # Author
+ # Author
 Gloria Otemah Biomedical Engineering Graduate University of Ghana, Legon Gmail: gloriaotemah334@gmail.com
 
 Clara Otipeseku Amakuor Biomedical Engineering Graduate University of Ghana, Legon Gmail: claraotipeseku3@gmail.com
